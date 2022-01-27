@@ -1,1 +1,3 @@
-# html5-css3-sass-course
+# Modern HTML & CSS From the Beginning (Including Sass)
+
+Udemy course
